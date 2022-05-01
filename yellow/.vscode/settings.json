@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "algorithm": "cpp",
+        "string": "cpp",
+        "cassert": "cpp",
+        "initializer_list": "cpp",
+        "iostream": "cpp",
+        "iosfwd": "cpp"
+    }
+}
